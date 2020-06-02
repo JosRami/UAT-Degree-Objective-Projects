@@ -1,0 +1,56 @@
+Link to Everything:
+https://github.com/JosRami/UAT-Degree-Objective-Projects
+
+Network Engineering Objectives:
+1. Translate physical and organizational needs into network design(s) that fully address and support logical, physical, and/or virtualized operational requirements.
+NTW216 Active Directory Diagram
+NTW270 Customer Request Diagram
+
+2. Implement, support, and evaluate network services (active directory, email, DNS, servers, clients and data storage), routed and switched network infrastructures (wired and wireless) that incorporate networking concepts and industry best practices.
+NTW216 Active Directory Diagram
+NTW270 Customer Request Diagram
+
+3. Design network architectures that incorporate emerging networking technologies.
+NTW275 Network Improvements
+NTW270 Customer Request Diagram
+
+4. Produce professional and accurate visualizations and documentation related to network architecture and services.
+NTW216 Active Directory Diagram
+NTW270 Customer Request Diagram
+
+5. Given cost and operational parameters, design network, hardware and system options with evaluations and recommendations of how they meet the requirements of specific projects.
+NTW270 Customer Request Diagram
+NTW275 Network Improvements
+
+6. Design and implement a secure network infrastructure using industry best practices.
+NTW275 Network Improvements
+NTS435 IDPS Integrations
+
+
+
+
+Network Security Objectives:
+1. Create a network infrastructure design communications document that includes identified hardware components, connections to outside world, identified physical layer connectivity (media) and addressing, including operational and security components in the design.
+NTW275 Network Improvements
+NTS435 IDPS Integrations
+
+2. Install, configure and test security hardware and software tools with supporting documentation such as port scanners, vulnerability detection systems, intrusion detection systems, firewalls, system hardening, anti-virus tools, patch management, auditing and assessment.
+NTW330 Scanning and Enumerating
+NTW275 SOP 03 SEC NAT Policy
+
+3. Construct, implement and document a script or a program to automate a security related process or other tasks such as installation, administration, management, mapping resources, logon scripts, patch management, updates, auditing, analysis and assessment.
+WIP
+WIP
+
+4. Create a policy or procedure that addresses events such as: a disaster recovery plan, a business continuity plan, an incident response policy, an acceptable usage document, an information security policy, a physical security policy, assessments or troubleshooting procedures.
+NTW440 BCP (Team CLP)
+NTS405 BCDR, Incident Response, Computer Forensics and Crisis Management
+
+
+5. Develop a research report or implementation plan concerning legal and ethical best practices and mandated requirements that pertain to information security.
+NTS435 IDPS Integration (SP800)
+NTW275 NIST-AC-17-and-RA-5-Summary-and-Examples
+
+6. Research, document, test and evaluate several current industry information security-based threats, risks, malicious activities, covert methodology, encryption technologies, mitigation techniques or unconventional tactics to prevent loss of sensitive information and data confidentiality, integrity and availability.
+NTS330 Exploit Research Presentation
+NTS350 Exploited!!
