@@ -39,8 +39,8 @@ NTW330 Scanning and Enumerating
 NTW275 SOP 03 SEC NAT Policy
 
 3. Construct, implement and document a script or a program to automate a security related process or other tasks such as installation, administration, management, mapping resources, logon scripts, patch management, updates, auditing, analysis and assessment.
-WIP
-WIP
+NoPingPlease - Python Script
+CreateFirewallRule - Powershell Script
 
 4. Create a policy or procedure that addresses events such as: a disaster recovery plan, a business continuity plan, an incident response policy, an acceptable usage document, an information security policy, a physical security policy, assessments or troubleshooting procedures.
 NTW440 BCP (Team CLP)
